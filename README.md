@@ -7,7 +7,7 @@ how to run this file:
 
 how to add plugins:
 
-Scroll to the bottom of IAT.py and you'll see a big PLUGINS section. Just add your command there using this pattern:
+Open IAT.py in a text editor and scroll to the bottom of IAT.py and you'll see a big PLUGINS section. Just add your command there using this pattern:
 
 @register("mycommand", "Short description", usage="mycommand [args]")
 def cmd_mycommand(args):
