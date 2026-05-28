@@ -1,2 +1,6 @@
-# APT
-IAT (In App Terminal) is a Python-based terminal emulator for Linux. It opens with a login prompt, then gives you a styled shell with built-in commands like whoami, ifconfig, and sysinfo. You can add your own custom commands directly in the script with just a few lines of code.
+WARNING: this only works with linux distros and also download python.
+
+how to run this file:
+1. run the command: cd ~/Downloads
+2. run the command: chmod +x IAT.py
+3. run the command: python3 IAT.py
